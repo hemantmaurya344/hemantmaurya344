@@ -19,7 +19,7 @@
 ## 🚀 Languages and Tools:
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://https://www.java.com/en//" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/java-logo/" alt="c" width="40" height="40"/> </a></p>
+</p>
 
 
 
