@@ -27,17 +27,10 @@
 <br/>
 
 
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/hemantmaurya344/hemantmaurya344"><img alt="Hemant Mauyra's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hemantmaurya344&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-  <br/>
-  <b>Note:</b>                  I'm currently Learning things.
 
 
-<br/>
-<br/>
+  <br/>     I'm currently Learning things.
+
 
 <br/>
 <br/>
