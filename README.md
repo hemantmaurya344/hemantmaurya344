@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently Student of B.tech Cse(2nd year).
+- 🔭 I’m currently Student of B.tech Cse(3rd year).
 
 - 🌱 I’m currently learning.
 
