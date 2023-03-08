@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning.
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]()**
+- 👨‍💻 All of my projects are available at <a href="https://hemantmaurya.netlify.app/">My Portfolio</a>
 
 - 📫 How to reach me  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfnbnNwMgJkFFTFQfRgVwZbGmzpVswTttNNpVHWVmHXGzWsMVNNLwQnSSvXVjnwdkrzqrL"> hemantmaurya344@gmail.com </a>
 
