@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning.
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]()** (coming soon)
+- 👨‍💻 All of my projects are available at **[My Portfolio]()**
 
-- 📫 How to reach me **hemantmaurya344@gmail.com**
+- 📫 How to reach me  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfnbnNwMgJkFFTFQfRgVwZbGmzpVswTttNNpVHWVmHXGzWsMVNNLwQnSSvXVjnwdkrzqrL"> hemantmaurya344@gmail.com </a>
 
 - ⚡ Fun fact **I play games and Listen indian hiphop lot.**
 
